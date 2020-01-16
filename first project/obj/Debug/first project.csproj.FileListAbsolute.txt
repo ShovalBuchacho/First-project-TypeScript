@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\bin\TypeScriptHTMLApp1.dll
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\obj\Debug\first project.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\obj\Debug\first project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Home\Desktop\שובל בוצ'צ'ו\first project\first project\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\bin\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\bin\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\obj\Debug\first project.csprojAssemblyReference.cache
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\לימודים\Projects\first project\first project\obj\Debug\TypeScriptHTMLApp1.pdb
